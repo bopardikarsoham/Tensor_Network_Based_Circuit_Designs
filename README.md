@@ -15,3 +15,6 @@ Adding various types of MERA, TTN and MPS Circuits
    
    Presentation - 
    [Group18-Final_Slide_Plant_Leaf_Disease_Detection_Hybrid_QNN.pdf](https://github.com/bopardikarsoham/Tensor_Network_Based_Circuit_Designs/files/9439236/Group18-Final_Slide_Plant_Leaf_Disease_Detection_Hybrid_QNN.pdf)
+   
+   Third Team Award for Presentation - https://drive.google.com/file/d/1BE7SH47XJFknXCwr_xHEDd7MMUngIT-9/view?usp=sharing
+   
